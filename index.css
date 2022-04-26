@@ -15,8 +15,8 @@
 }
 #Web_1920__1 {
 	position: absolute;
-	width: 1920px;
-	height: 2630px;
+	width: 1440px;
+	height: 2214px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: Web 1920 – 1;
@@ -26,72 +26,24 @@
 }
 #who_am_i {
 	opacity: 0.19;
-	left: 998px;
-	top: 692px;
+	left: 736px;
+	top: 696px;
 	position: absolute;
 	overflow: visible;
-	width: 211px;
+	width: 151px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Harlow Solid;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 53px;
+	font-size: 38px;
 	color: rgba(255,0,195,1);
-}
-#n_2 {
-	fill: rgba(255,0,195,1);
-	stroke: rgba(255,0,195,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.n_2 {
-	position: absolute;
-	overflow: visible;
-	width: 45px;
-	height: 45px;
-	left: 1759px;
-	top: 45px;
-}
-#nani_log_in {
-	left: 1651px;
-	top: 31px;
-	position: absolute;
-	overflow: visible;
-	width: 142px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Harlow Solid;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 34px;
-	color: rgba(255,0,195,1);
-}
-#n_6 {
-	fill: transparent;
-	stroke: rgba(255,0,195,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.n_6 {
-	position: absolute;
-	overflow: visible;
-	width: 44px;
-	height: 45px;
-	left: 1681px;
-	top: 30px;
 }
 #n_4 {
 	position: absolute;
 	width: 551px;
 	height: 133px;
-	left: 685px;
+	left: 445px;
 	top: 51px;
 	overflow: visible;
 }
@@ -143,141 +95,87 @@
 	left: 108px;
 	top: 27px;
 }
-#n_1 {
-	fill: transparent;
-	stroke: rgba(255,0,195,1);
-	stroke-width: 10px;
-	stroke-linejoin: miter;
-	stroke-linecap: round;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.n_1 {
-	overflow: visible;
-	position: absolute;
-	width: 39.822px;
-	height: 10px;
-	left: 1855.678px;
-	top: 38.769px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#n_2_p {
-	fill: transparent;
-	stroke: rgba(255,0,195,1);
-	stroke-width: 10px;
-	stroke-linejoin: miter;
-	stroke-linecap: round;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.n_2_p {
-	overflow: visible;
-	position: absolute;
-	width: 39.822px;
-	height: 10px;
-	left: 1855.678px;
-	top: 49.538px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#n_3_q {
-	fill: transparent;
-	stroke: rgba(255,0,195,1);
-	stroke-width: 10px;
-	stroke-linejoin: miter;
-	stroke-linecap: round;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.n_3_q {
-	overflow: visible;
-	position: absolute;
-	width: 39.822px;
-	height: 10px;
-	left: 1855.678px;
-	top: 60.307px;
-	transform: matrix(1,0,0,1,0,0);
-}
 #n__6 {
 	position: absolute;
-	width: 417px;
-	height: 590px;
-	left: 1439px;
-	top: 1394px;
+	width: 310px;
+	height: 439px;
+	left: 1063px;
+	top: 1218px;
 	overflow: visible;
 }
 #n__4 {
 	position: absolute;
-	width: 415px;
-	height: 587px;
-	left: 988px;
-	top: 1099px;
+	width: 309px;
+	height: 437px;
+	left: 728px;
+	top: 998px;
 	overflow: visible;
 }
 #n__1 {
 	position: absolute;
-	width: 417px;
-	height: 590px;
-	left: 52px;
-	top: 509px;
+	width: 310px;
+	height: 438px;
+	left: 32px;
+	top: 560px;
 	overflow: visible;
 }
 #n__5 {
 	position: absolute;
-	width: 417px;
-	height: 590px;
-	left: 513px;
-	top: 804px;
+	width: 310px;
+	height: 438px;
+	left: 374px;
+	top: 779px;
 	overflow: visible;
 }
 #who_are_you {
 	opacity: 0.19;
-	left: 1459px;
-	top: 983px;
+	left: 1078px;
+	top: 912px;
 	position: absolute;
 	overflow: visible;
-	width: 271px;
+	width: 194px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Harlow Solid;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 53px;
+	font-size: 38px;
 	color: rgba(255,0,195,1);
 }
-#n_5_w {
+#n_5_q {
 	position: absolute;
-	width: 371px;
-	height: 67px;
-	left: 573px;
-	top: 394px;
+	width: 266px;
+	height: 48px;
+	left: 419px;
+	top: 474px;
 	overflow: visible;
 }
-#n_4_x {
+#n_4_r {
 	fill: rgba(255,0,195,1);
 }
-.n_4_x {
+.n_4_r {
 	position: absolute;
 	overflow: visible;
-	width: 46px;
-	height: 45px;
-	left: 145px;
-	top: 11px;
+	width: 34px;
+	height: 33px;
+	left: 109px;
+	top: 8px;
 }
 #whats_in_my_bag {
 	left: 0px;
 	top: 0px;
 	position: absolute;
 	overflow: visible;
-	width: 372px;
+	width: 267px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Harlow Solid;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 53px;
+	font-size: 38px;
 	color: rgba(255,0,195,1);
 }
-#n_4_z {
+#n_4_t {
 	fill: transparent;
 	stroke: rgba(255,0,195,1);
 	stroke-width: 10px;
@@ -286,13 +184,13 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.n_4_z {
+.n_4_t {
 	overflow: visible;
 	position: absolute;
-	width: 381px;
+	width: 285.898px;
 	height: 10px;
-	left: 571.5px;
-	top: 475.5px;
+	left: 418.209px;
+	top: 534.608px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #n_19 {
@@ -308,10 +206,10 @@
 .n_19 {
 	overflow: visible;
 	position: absolute;
-	width: 220.5px;
+	width: 166.541px;
 	height: 10px;
-	left: 998px;
-	top: 773.5px;
+	left: 735.381px;
+	top: 756.219px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #n_20 {
@@ -327,10 +225,10 @@
 .n_20 {
 	overflow: visible;
 	position: absolute;
-	width: 266px;
+	width: 200.377px;
 	height: 10px;
-	left: 1465.5px;
-	top: 1065.5px;
+	left: 1083.043px;
+	top: 973.369px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #n_21 {
@@ -346,13 +244,13 @@
 .n_21 {
 	overflow: visible;
 	position: absolute;
-	width: 266px;
+	width: 200.377px;
 	height: 10px;
-	left: 1103px;
-	top: 2029.5px;
+	left: 813.465px;
+	top: 1690.258px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#n_5_ {
+#n_5_x {
 	fill: transparent;
 	stroke: rgba(254,0,194,1);
 	stroke-width: 10px;
@@ -361,13 +259,13 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.n_5_ {
+.n_5_x {
 	overflow: visible;
 	position: absolute;
-	width: 550px;
+	width: 411.577px;
 	height: 10px;
-	left: 0.5px;
-	top: 475.5px;
+	left: -6.421px;
+	top: 534.608px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #n_12 {
@@ -382,14 +280,14 @@
 .n_12 {
 	overflow: visible;
 	position: absolute;
-	width: 540px;
+	width: 401.577px;
 	height: 1px;
-	transform: matrix(1,0,0,1,1378.5,2035.5) rotate(180deg);
+	transform: matrix(1,0,0,1,1018.3441,1694.72) rotate(180deg);
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
 }
-#n_6_ {
+#n_6 {
 	fill: transparent;
 	stroke: rgba(254,0,194,1);
 	stroke-width: 10px;
@@ -398,13 +296,13 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.n_6_ {
+.n_6 {
 	overflow: visible;
 	position: absolute;
 	width: 10px;
-	height: 308px;
-	left: 540.5px;
-	top: 475.5px;
+	height: 231.611px;
+	left: 395.156px;
+	top: 534.608px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #n_13 {
@@ -420,8 +318,8 @@
 	overflow: visible;
 	position: absolute;
 	width: 1px;
-	height: 298px;
-	transform: matrix(1,0,0,1,1378.5,1737.5) rotate(180deg);
+	height: 221.611px;
+	transform: matrix(1,0,0,1,1018.344,1473.1089) rotate(180deg);
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
@@ -438,10 +336,10 @@
 .n_7 {
 	overflow: visible;
 	position: absolute;
-	width: 446px;
+	width: 334.236px;
 	height: 10px;
-	left: 540.5px;
-	top: 773.5px;
+	left: 395.156px;
+	top: 756.219px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #n_14 {
@@ -456,9 +354,9 @@
 .n_14 {
 	overflow: visible;
 	position: absolute;
-	width: 436px;
+	width: 324.236px;
 	height: 1px;
-	transform: matrix(1,0,0,1,942.5,1737.5) rotate(180deg);
+	transform: matrix(1,0,0,1,694.1077,1473.1089) rotate(180deg);
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
@@ -476,9 +374,9 @@
 	overflow: visible;
 	position: absolute;
 	width: 10px;
-	height: 302px;
-	left: 976.5px;
-	top: 773.5px;
+	height: 227.149px;
+	left: 719.392px;
+	top: 756.219px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #n_15 {
@@ -494,8 +392,8 @@
 	overflow: visible;
 	position: absolute;
 	width: 1px;
-	height: 292px;
-	transform: matrix(1,0,0,1,942.5,1445.5) rotate(180deg);
+	height: 217.149px;
+	transform: matrix(1,0,0,1,694.1077,1255.9598) rotate(180deg);
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
@@ -512,10 +410,10 @@
 .n_9 {
 	overflow: visible;
 	position: absolute;
-	width: 472px;
+	width: 353.572px;
 	height: 10px;
-	left: 976.5px;
-	top: 1065.5px;
+	left: 719.392px;
+	top: 973.369px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #n_16 {
@@ -530,9 +428,9 @@
 .n_16 {
 	overflow: visible;
 	position: absolute;
-	width: 462px;
+	width: 343.571px;
 	height: 1px;
-	transform: matrix(1,0,0,1,480.5,1445.5) rotate(180deg);
+	transform: matrix(1,0,0,1,350.5363,1255.9597) rotate(180deg);
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
@@ -550,9 +448,9 @@
 	overflow: visible;
 	position: absolute;
 	width: 10px;
-	height: 292px;
-	left: 1438.5px;
-	top: 1065.5px;
+	height: 219.713px;
+	left: 1062.964px;
+	top: 973.369px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #n_11 {
@@ -567,10 +465,10 @@
 .n_11 {
 	overflow: visible;
 	position: absolute;
-	width: 517px;
+	width: 387.036px;
 	height: 10px;
-	left: 1438.5px;
-	top: 1347.5px;
+	left: 1062.964px;
+	top: 1183.081px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #n_17 {
@@ -586,8 +484,8 @@
 	overflow: visible;
 	position: absolute;
 	width: 1px;
-	height: 282px;
-	transform: matrix(1,0,0,1,480.5,1163.5) rotate(180deg);
+	height: 209.712px;
+	transform: matrix(1,0,0,1,350.5362,1046.2472) rotate(180deg);
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
@@ -604,29 +502,29 @@
 .n_18 {
 	overflow: visible;
 	position: absolute;
-	width: 507px;
+	width: 377.036px;
 	height: 1px;
-	transform: matrix(1,0,0,1,-26.5,1163.5) rotate(180deg);
+	transform: matrix(1,0,0,1,-26.5,1046.2473) rotate(180deg);
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
 }
 #just_me {
 	opacity: 0.19;
-	left: 1173px;
-	top: 1951px;
+	left: 866px;
+	top: 1632px;
 	position: absolute;
 	overflow: visible;
-	width: 165px;
+	width: 118px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Harlow Solid;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 53px;
+	font-size: 38px;
 	color: rgba(255,0,195,1);
 }
-#n_1_bi {
+#n_1 {
 	fill: rgba(254,0,194,1);
 	stroke: rgba(254,0,194,1);
 	stroke-width: 1px;
@@ -635,17 +533,17 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.n_1_bi {
+.n_1 {
 	position: absolute;
 	overflow: visible;
-	width: 1920px;
+	width: 1440px;
 	height: 184px;
 	left: 0px;
-	top: 2446px;
+	top: 2034px;
 }
 #thanks_to_me_ {
-	left: 888px;
-	top: 2471px;
+	left: 640px;
+	top: 2059px;
 	position: absolute;
 	overflow: visible;
 	width: 201px;
