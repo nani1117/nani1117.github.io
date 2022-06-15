@@ -15,8 +15,8 @@
 	--web-refresh-for-changes: false;
 	--web-add-image-compare: false;
 	--web-show-by-media-query: false;
-	--web-application: false;
-	--web-show-navigation-controls: true;
+	--web-application: true;
+	--web-show-navigation-controls: false;
 	--web-enable-deep-linking: true;
 	--web-is-overlay: false;
 }
@@ -33,7 +33,7 @@
 		--web-view-name: 1;
 		--web-view-id: n_;
 		--web-scale-on-resize: true;
-		--web-show-navigation-controls: true;
+		--web-application: true;
 		--web-enable-deep-linking: true;
 	}
 	* {
@@ -52,7 +52,7 @@
 		--web-view-name: 1;
 		--web-view-id: n_;
 		--web-scale-on-resize: true;
-		--web-show-navigation-controls: true;
+		--web-application: true;
 		--web-enable-deep-linking: true;
 	}
 	@keyframes fadein {
@@ -125,7 +125,7 @@
 		--web-view-name: 2;
 		--web-view-id: n_;
 		--web-scale-on-resize: true;
-		--web-show-navigation-controls: true;
+		--web-application: true;
 		--web-enable-deep-linking: true;
 	}
 	* {
@@ -144,7 +144,7 @@
 		--web-view-name: 2;
 		--web-view-id: n_;
 		--web-scale-on-resize: true;
-		--web-show-navigation-controls: true;
+		--web-application: true;
 		--web-enable-deep-linking: true;
 	}
 	@keyframes fadein {
@@ -716,7 +716,7 @@
 		--web-view-name: 3;
 		--web-view-id: n_;
 		--web-scale-on-resize: true;
-		--web-show-navigation-controls: true;
+		--web-application: true;
 		--web-enable-deep-linking: true;
 	}
 	* {
@@ -735,7 +735,7 @@
 		--web-view-name: 3;
 		--web-view-id: n_;
 		--web-scale-on-resize: true;
-		--web-show-navigation-controls: true;
+		--web-application: true;
 		--web-enable-deep-linking: true;
 	}
 	@keyframes fadein {
@@ -1301,7 +1301,7 @@
 		--web-view-name: 4;
 		--web-view-id: n_;
 		--web-scale-on-resize: true;
-		--web-show-navigation-controls: true;
+		--web-application: true;
 		--web-enable-deep-linking: true;
 	}
 	* {
@@ -1320,7 +1320,7 @@
 		--web-view-name: 4;
 		--web-view-id: n_;
 		--web-scale-on-resize: true;
-		--web-show-navigation-controls: true;
+		--web-application: true;
 		--web-enable-deep-linking: true;
 	}
 	@keyframes fadein {
@@ -1886,7 +1886,7 @@
 		--web-view-name: 5;
 		--web-view-id: n_;
 		--web-scale-on-resize: true;
-		--web-show-navigation-controls: true;
+		--web-application: true;
 		--web-enable-deep-linking: true;
 	}
 	* {
@@ -1905,7 +1905,7 @@
 		--web-view-name: 5;
 		--web-view-id: n_;
 		--web-scale-on-resize: true;
-		--web-show-navigation-controls: true;
+		--web-application: true;
 		--web-enable-deep-linking: true;
 	}
 	@keyframes fadein {
@@ -2471,7 +2471,7 @@
 		--web-view-name: 6;
 		--web-view-id: n_;
 		--web-scale-on-resize: true;
-		--web-show-navigation-controls: true;
+		--web-application: true;
 		--web-enable-deep-linking: true;
 	}
 	* {
@@ -2490,7 +2490,7 @@
 		--web-view-name: 6;
 		--web-view-id: n_;
 		--web-scale-on-resize: true;
-		--web-show-navigation-controls: true;
+		--web-application: true;
 		--web-enable-deep-linking: true;
 	}
 	@keyframes fadein {
