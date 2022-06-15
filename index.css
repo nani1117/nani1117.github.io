@@ -1,0 +1,23 @@
+.mediaViewInfo {
+	--web-view-name: 5;
+	--web-view-id: n_;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: n_;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#null {
+	position: absolute;
+	width: 1520px;
+	height: 2214px;
+	left: 6336px;
+	top: 29px;
+	overflow: auto;
+}
