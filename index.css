@@ -24,6 +24,16 @@
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
 #who_am_i {
 	opacity: 0.19;
 	left: 778px;
@@ -32,6 +42,10 @@
 	overflow: visible;
 	width: 159px;
 	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
 	text-align: left;
 	font-family: Harlow Solid;
 	font-style: normal;
@@ -113,10 +127,10 @@
 }
 #n__1 {
 	position: absolute;
-	width: 327px;
-	height: 462px;
-	left: 35px;
-	top: 565px;
+	width: 425px;
+	height: 601px;
+	left: 1027px;
+	top: 298px;
 	overflow: visible;
 }
 #n__5 {
@@ -135,6 +149,10 @@
 	overflow: visible;
 	width: 204px;
 	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
 	text-align: left;
 	font-family: Harlow Solid;
 	font-style: normal;
@@ -142,7 +160,7 @@
 	font-size: 40px;
 	color: rgba(255,0,195,1);
 }
-#n_5_q {
+#n_5_v {
 	position: absolute;
 	width: 280px;
 	height: 51px;
@@ -150,10 +168,10 @@
 	top: 474px;
 	overflow: visible;
 }
-#n_4_r {
+#n_4_w {
 	fill: rgba(255,0,195,1);
 }
-.n_4_r {
+.n_4_w {
 	position: absolute;
 	overflow: visible;
 	width: 36px;
@@ -175,7 +193,7 @@
 	font-size: 40px;
 	color: rgba(255,0,195,1);
 }
-#n_4_t {
+#n_4_y {
 	fill: transparent;
 	stroke: rgba(255,0,195,1);
 	stroke-width: 10px;
@@ -184,7 +202,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.n_4_t {
+.n_4_y {
 	overflow: visible;
 	position: absolute;
 	width: 300.949px;
@@ -250,7 +268,7 @@
 	top: 1756.607px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#n_5_x {
+#n_5_ {
 	fill: transparent;
 	stroke: rgba(254,0,194,1);
 	stroke-width: 10px;
@@ -259,7 +277,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.n_5_x {
+.n_5_ {
 	overflow: visible;
 	position: absolute;
 	width: 433.484px;
@@ -517,6 +535,10 @@
 	overflow: visible;
 	width: 122px;
 	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
 	text-align: left;
 	font-family: Harlow Solid;
 	font-style: normal;
